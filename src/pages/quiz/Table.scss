@@ -1,0 +1,76 @@
+
+.topPaper,.bottomPaper{
+        
+          padding: 20px;
+          margin: 20px;
+          font-weight: bold;
+
+}
+    
+.header{
+    margin: 5px 5px;
+    // display:inline-block;
+    h1 {
+      color: #6439ff;
+      font-size: 25px;
+      max-width:400x ;
+    }
+  }
+.topPaper
+   {
+    // width: 94%;
+    .formInput {
+      width: 400px;
+      color: #6439ff;
+        margin: 5px;
+        
+      select {
+
+        width: 100%;
+        padding: 5px;
+        border: none;
+        border-bottom: 1px solid gray;
+      }
+    }
+  }
+  .bottomPaper{
+    .question{
+        margin-bottom: 20px;
+        .formInput {
+            width: 800px;
+            color: #6439ff;
+            margin: 5px;
+            
+          }
+    }
+    .formInput {
+        width: 400px;
+        color: #6439ff;
+          margin: 5px;
+          margin-bottom: 15px;
+          
+        input, .input {
+  
+          width: 100%;
+          padding: 5px;
+          border: none;
+          border-bottom: 1px solid gray;
+        }
+      }
+      .button{
+        border-color: #6439ff;
+        color: #6439ff;
+        font-weight: bold;
+        cursor: pointer;
+      
+        cursor: pointer;
+        
+      }
+      .button:hover{
+        -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+        box-shadow: 2px 4px 10px 1px rgba(100, 57, 255, 1);
+        color: white;
+        background-color:#6439ff;
+      }
+  }
+

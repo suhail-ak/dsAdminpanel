@@ -1,0 +1,132 @@
+.list {
+  display: flex;
+  width: 100%;
+  .listContainer {
+    flex: 6;
+  }
+}
+
+// .quiz {
+//     width: 100%;
+//     // display: flex;
+  
+//     .newContainer {
+//       // flex: 6;
+  
+//       .top,
+//       .bottom {
+//         -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+//         box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+//         padding: 20px;
+//         margin: 20px;
+//         width: 900%;
+//         color: #6439ff;
+//         border-radius: 5px;
+  
+ 
+//     // position:absolute;
+//         button {
+//         max-width: 200px;
+//         height: 40px;
+//           padding: 10px;
+//           border: none;
+//           background-color: #6439ff;
+//           color: white;
+//           font-size: 10px;
+//           font-weight: bold;
+//           cursor: pointer;
+//           margin-top: 10px;
+//         box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+//         -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+
+
+//         }
+      
+//         .header{
+//           display:inline-block;
+//           h1 {
+//             color: #6439ff;
+//             font-size: 20px;
+//             max-width:200x ;
+//           }
+//         }
+//       }
+  
+  
+  
+  
+//       .top{
+       
+//         form {
+//           display: flex;
+//           flex-direction:row;
+//           gap: 30px;
+//           margin-top: 20px;
+  
+          
+  
+//           .topicTitle,
+//           .ansType {
+//             .formInput, select {
+//               width: 200px;
+  
+//               label {
+//                 display: flex;
+//                 align-items: left;
+//                 gap: 10px;
+  
+//                 .icon {
+//                   cursor: pointer;
+//                 }
+//               }
+  
+//               input,select {
+//                 width: 100%;
+//                 padding: 5px;
+//                 border: none;
+//                 border-bottom: 1px solid gray;
+//               }
+//             }
+//           }
+  
+          
+//         }
+        
+//         // Add this property to move form below header
+//         flex-direction: column;
+//       }
+//       .bottom {
+//         .right {
+//           form, .ans1, .ans2 {
+//             // display: flex;
+//             // flex-direction: row;
+//             // flex-wrap: wrap;
+//             // gap: 70px;
+//             // justify-content: flex-start;
+//             .ans1, .ans2 {
+//                width: 100%;
+//               // display: flexbox;
+//               // flex-direction: row;
+//             }
+//             .formInput,.question {
+//               // .question {
+//               //   width: 100%; /* remove the flex property */
+//               // }
+              
+//               input
+//                {
+//                 width: 100%;
+//                 padding: 5px;
+//                 border: none;
+//                 border-bottom: 1px solid gray;
+//               }
+//               // .sub {
+//               //   width: 100%;
+//               // }
+//             }
+//           }
+//         }
+//       }
+      
+//     }
+//   }
